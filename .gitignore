@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.local
+.env.*.local
+.designer-tokens.local.json
+.pglite
+*.tsbuildinfo
+next-env.d.ts
+
+.vercel
+.env*
